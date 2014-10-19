@@ -28,6 +28,8 @@
 #ifndef _SYS_MMAN_H_
 #define _SYS_MMAN_H_
 
+#include <stdlib.h>
+
 #include <sys/cdefs.h>
 #include <sys/types.h>
 #include <asm/mman.h>

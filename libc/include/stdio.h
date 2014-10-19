@@ -38,6 +38,8 @@
 #ifndef	_STDIO_H_
 #define	_STDIO_H_
 
+#include <stdlib.h>
+
 #include <sys/cdefs.h>
 #include <sys/types.h>
 
